@@ -1,0 +1,1006 @@
+{
+  "version": 1,
+  "source": "https://github.com/Hanwen-Jiang/leetcode",
+  "problems": [
+    {
+      "id": 1,
+      "name": "两数之和",
+      "level": "简单",
+      "topic": "哈希",
+      "tier": "P0",
+      "rank": 9,
+      "slug": "two-sum",
+      "file": "0001.两数之和"
+    },
+    {
+      "id": 49,
+      "name": "字母异位词分组",
+      "level": "中等",
+      "topic": "哈希",
+      "tier": "P2",
+      "rank": 59,
+      "slug": "group-anagrams",
+      "file": "0049.字母异位词分组"
+    },
+    {
+      "id": 128,
+      "name": "最长连续序列",
+      "level": "中等",
+      "topic": "哈希",
+      "tier": "P1",
+      "rank": 42,
+      "slug": "longest-consecutive-sequence",
+      "file": "0128.最长连续序列"
+    },
+    {
+      "id": 283,
+      "name": "移动零",
+      "level": "简单",
+      "topic": "双指针",
+      "tier": "P2",
+      "rank": 63,
+      "slug": "move-zeroes",
+      "file": "0283.移动零"
+    },
+    {
+      "id": 11,
+      "name": "盛最多水的容器",
+      "level": "中等",
+      "topic": "双指针",
+      "tier": "P2",
+      "rank": 62,
+      "slug": "container-with-most-water",
+      "file": "0011.盛最多水的容器"
+    },
+    {
+      "id": 15,
+      "name": "三数之和",
+      "level": "中等",
+      "topic": "双指针",
+      "tier": "P0",
+      "rank": 6,
+      "slug": "3sum",
+      "file": "0015.三数之和"
+    },
+    {
+      "id": 42,
+      "name": "接雨水",
+      "level": "困难",
+      "topic": "双指针",
+      "tier": "P0",
+      "rank": 23,
+      "slug": "trapping-rain-water",
+      "file": "0042.接雨水"
+    },
+    {
+      "id": 3,
+      "name": "无重复字符的最长子串",
+      "level": "中等",
+      "topic": "滑动窗口",
+      "tier": "P0",
+      "rank": 1,
+      "slug": "longest-substring-without-repeating-characters",
+      "file": "0003.无重复字符的最长子串"
+    },
+    {
+      "id": 438,
+      "name": "找到字符串中所有字母异位词",
+      "level": "中等",
+      "topic": "滑动窗口",
+      "tier": "P2",
+      "rank": 61,
+      "slug": "find-all-anagrams-in-a-string",
+      "file": "0438.找到字符串中所有字母异位词"
+    },
+    {
+      "id": 560,
+      "name": "和为 K 的子数组",
+      "level": "中等",
+      "topic": "子串",
+      "tier": "P2",
+      "rank": 60,
+      "slug": "subarray-sum-equals-k",
+      "file": "0560.和为 K 的子数组"
+    },
+    {
+      "id": 239,
+      "name": "滑动窗口最大值",
+      "level": "困难",
+      "topic": "子串",
+      "tier": "P1",
+      "rank": 36,
+      "slug": "sliding-window-maximum",
+      "file": "0239.滑动窗口最大值"
+    },
+    {
+      "id": 76,
+      "name": "最小覆盖子串",
+      "level": "困难",
+      "topic": "子串",
+      "tier": "P3",
+      "rank": 84,
+      "slug": "minimum-window-substring",
+      "file": "0076.最小覆盖子串"
+    },
+    {
+      "id": 53,
+      "name": "最大子数组和",
+      "level": "中等",
+      "topic": "普通数组",
+      "tier": "P0",
+      "rank": 7,
+      "slug": "maximum-subarray",
+      "file": "0053.最大子数组和"
+    },
+    {
+      "id": 56,
+      "name": "合并区间",
+      "level": "中等",
+      "topic": "普通数组",
+      "tier": "P1",
+      "rank": 26,
+      "slug": "merge-intervals",
+      "file": "0056.合并区间"
+    },
+    {
+      "id": 189,
+      "name": "轮转数组",
+      "level": "中等",
+      "topic": "普通数组",
+      "tier": "P2",
+      "rank": 64,
+      "slug": "rotate-array",
+      "file": "0189.轮转数组"
+    },
+    {
+      "id": 238,
+      "name": "除了自身以外数组的乘积",
+      "level": "中等",
+      "topic": "普通数组",
+      "tier": "P2",
+      "rank": 65,
+      "slug": "product-of-array-except-self",
+      "file": "0238.除了自身以外数组的乘积"
+    },
+    {
+      "id": 41,
+      "name": "缺失的第一个正数",
+      "level": "困难",
+      "topic": "普通数组",
+      "tier": "P3",
+      "rank": 83,
+      "slug": "first-missing-positive",
+      "file": "0041.缺失的第一个正数"
+    },
+    {
+      "id": 73,
+      "name": "矩阵置零",
+      "level": "中等",
+      "topic": "矩阵",
+      "tier": "P2",
+      "rank": 66,
+      "slug": "set-matrix-zeroes",
+      "file": "0073.矩阵置零"
+    },
+    {
+      "id": 54,
+      "name": "螺旋矩阵",
+      "level": "中等",
+      "topic": "矩阵",
+      "tier": "P0",
+      "rank": 20,
+      "slug": "spiral-matrix",
+      "file": "0054.螺旋矩阵"
+    },
+    {
+      "id": 48,
+      "name": "旋转图像",
+      "level": "中等",
+      "topic": "矩阵",
+      "tier": "P2",
+      "rank": 53,
+      "slug": "rotate-image",
+      "file": "0048.旋转图像"
+    },
+    {
+      "id": 240,
+      "name": "搜索二维矩阵 II",
+      "level": "中等",
+      "topic": "矩阵",
+      "tier": "P1",
+      "rank": 44,
+      "slug": "search-a-2d-matrix-ii",
+      "file": "0240.搜索二维矩阵 II"
+    },
+    {
+      "id": 160,
+      "name": "相交链表",
+      "level": "简单",
+      "topic": "链表",
+      "tier": "P0",
+      "rank": 21,
+      "slug": "intersection-of-two-linked-lists",
+      "file": "0160.相交链表"
+    },
+    {
+      "id": 206,
+      "name": "反转链表",
+      "level": "简单",
+      "topic": "链表",
+      "tier": "P0",
+      "rank": 2,
+      "slug": "reverse-linked-list",
+      "file": "0206.反转链表"
+    },
+    {
+      "id": 234,
+      "name": "回文链表",
+      "level": "简单",
+      "topic": "链表",
+      "tier": "P1",
+      "rank": 50,
+      "slug": "palindrome-linked-list",
+      "file": "0234.回文链表"
+    },
+    {
+      "id": 141,
+      "name": "环形链表",
+      "level": "简单",
+      "topic": "链表",
+      "tier": "P0",
+      "rank": 17,
+      "slug": "linked-list-cycle",
+      "file": "0141.环形链表"
+    },
+    {
+      "id": 142,
+      "name": "环形链表 II",
+      "level": "中等",
+      "topic": "链表",
+      "tier": "P1",
+      "rank": 30,
+      "slug": "linked-list-cycle-ii",
+      "file": "0142.环形链表 II"
+    },
+    {
+      "id": 21,
+      "name": "合并两个有序链表",
+      "level": "简单",
+      "topic": "链表",
+      "tier": "P0",
+      "rank": 8,
+      "slug": "merge-two-sorted-lists",
+      "file": "0021.合并两个有序链表"
+    },
+    {
+      "id": 2,
+      "name": "两数相加",
+      "level": "中等",
+      "topic": "链表",
+      "tier": "P1",
+      "rank": 34,
+      "slug": "add-two-numbers",
+      "file": "0002.两数相加"
+    },
+    {
+      "id": 19,
+      "name": "删除链表的倒数第 N 个结点",
+      "level": "中等",
+      "topic": "链表",
+      "tier": "P1",
+      "rank": 28,
+      "slug": "remove-nth-node-from-end-of-list",
+      "file": "0019.删除链表的倒数第 N 个结点"
+    },
+    {
+      "id": 24,
+      "name": "两两交换链表中的节点",
+      "level": "中等",
+      "topic": "链表",
+      "tier": "P2",
+      "rank": 51,
+      "slug": "swap-nodes-in-pairs",
+      "file": "0024.两两交换链表中的节点"
+    },
+    {
+      "id": 25,
+      "name": "K 个一组翻转链表",
+      "level": "困难",
+      "topic": "链表",
+      "tier": "P0",
+      "rank": 5,
+      "slug": "reverse-nodes-in-k-group",
+      "file": "0025.K 个一组翻转链表"
+    },
+    {
+      "id": 138,
+      "name": "随机链表的复制",
+      "level": "中等",
+      "topic": "链表",
+      "tier": "P2",
+      "rank": 52,
+      "slug": "copy-list-with-random-pointer",
+      "file": "0138.随机链表的复制"
+    },
+    {
+      "id": 148,
+      "name": "排序链表",
+      "level": "中等",
+      "topic": "链表",
+      "tier": "P1",
+      "rank": 32,
+      "slug": "sort-list",
+      "file": "0148.排序链表"
+    },
+    {
+      "id": 23,
+      "name": "合并 K 个升序链表",
+      "level": "困难",
+      "topic": "链表",
+      "tier": "P0",
+      "rank": 19,
+      "slug": "merge-k-sorted-lists",
+      "file": "0023.合并 K 个升序链表"
+    },
+    {
+      "id": 146,
+      "name": "LRU 缓存",
+      "level": "中等",
+      "topic": "链表",
+      "tier": "P0",
+      "rank": 3,
+      "slug": "lru-cache",
+      "file": "0146.LRU 缓存"
+    },
+    {
+      "id": 94,
+      "name": "二叉树的中序遍历",
+      "level": "简单",
+      "topic": "二叉树",
+      "tier": "P0",
+      "rank": 25,
+      "slug": "binary-tree-inorder-traversal",
+      "file": "0094.二叉树的中序遍历"
+    },
+    {
+      "id": 104,
+      "name": "二叉树的最大深度",
+      "level": "简单",
+      "topic": "二叉树",
+      "tier": "P1",
+      "rank": 46,
+      "slug": "maximum-depth-of-binary-tree",
+      "file": "0104.二叉树的最大深度"
+    },
+    {
+      "id": 226,
+      "name": "翻转二叉树",
+      "level": "简单",
+      "topic": "二叉树",
+      "tier": "P1",
+      "rank": 48,
+      "slug": "invert-binary-tree",
+      "file": "0226.翻转二叉树"
+    },
+    {
+      "id": 101,
+      "name": "对称二叉树",
+      "level": "简单",
+      "topic": "二叉树",
+      "tier": "P1",
+      "rank": 47,
+      "slug": "symmetric-tree",
+      "file": "0101.对称二叉树"
+    },
+    {
+      "id": 543,
+      "name": "二叉树的直径",
+      "level": "简单",
+      "topic": "二叉树",
+      "tier": "P1",
+      "rank": 45,
+      "slug": "diameter-of-binary-tree",
+      "file": "0543.二叉树的直径"
+    },
+    {
+      "id": 102,
+      "name": "二叉树的层序遍历",
+      "level": "中等",
+      "topic": "二叉树",
+      "tier": "P0",
+      "rank": 10,
+      "slug": "binary-tree-level-order-traversal",
+      "file": "0102.二叉树的层序遍历"
+    },
+    {
+      "id": 108,
+      "name": "将有序数组转换为二叉搜索树",
+      "level": "简单",
+      "topic": "二叉树",
+      "tier": "P2",
+      "rank": 74,
+      "slug": "convert-sorted-array-to-binary-search-tree",
+      "file": "0108.将有序数组转换为二叉搜索树"
+    },
+    {
+      "id": 98,
+      "name": "验证二叉搜索树",
+      "level": "中等",
+      "topic": "二叉树",
+      "tier": "P1",
+      "rank": 49,
+      "slug": "validate-binary-search-tree",
+      "file": "0098.验证二叉搜索树"
+    },
+    {
+      "id": 230,
+      "name": "二叉搜索树中第 K 小的元素",
+      "level": "中等",
+      "topic": "二叉树",
+      "tier": "P2",
+      "rank": 71,
+      "slug": "kth-smallest-element-in-a-bst",
+      "file": "0230.二叉搜索树中第 K 小的元素"
+    },
+    {
+      "id": 199,
+      "name": "二叉树的右视图",
+      "level": "中等",
+      "topic": "二叉树",
+      "tier": "P0",
+      "rank": 24,
+      "slug": "binary-tree-right-side-view",
+      "file": "0199.二叉树的右视图"
+    },
+    {
+      "id": 114,
+      "name": "二叉树展开为链表",
+      "level": "中等",
+      "topic": "二叉树",
+      "tier": "P2",
+      "rank": 72,
+      "slug": "flatten-binary-tree-to-linked-list",
+      "file": "0114.二叉树展开为链表"
+    },
+    {
+      "id": 105,
+      "name": "从前序与中序遍历序列构造二叉树",
+      "level": "中等",
+      "topic": "二叉树",
+      "tier": "P1",
+      "rank": 38,
+      "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+      "file": "0105.从前序与中序遍历序列构造二叉树"
+    },
+    {
+      "id": 437,
+      "name": "路径总和 III",
+      "level": "中等",
+      "topic": "二叉树",
+      "tier": "P2",
+      "rank": 73,
+      "slug": "path-sum-iii",
+      "file": "0437.路径总和 III"
+    },
+    {
+      "id": 236,
+      "name": "二叉树的最近公共祖先",
+      "level": "中等",
+      "topic": "二叉树",
+      "tier": "P0",
+      "rank": 18,
+      "slug": "lowest-common-ancestor-of-a-binary-tree",
+      "file": "0236.二叉树的最近公共祖先"
+    },
+    {
+      "id": 124,
+      "name": "二叉树中的最大路径和",
+      "level": "困难",
+      "topic": "二叉树",
+      "tier": "P3",
+      "rank": 81,
+      "slug": "binary-tree-maximum-path-sum",
+      "file": "0124.二叉树中的最大路径和"
+    },
+    {
+      "id": 200,
+      "name": "岛屿数量",
+      "level": "中等",
+      "topic": "图论",
+      "tier": "P0",
+      "rank": 13,
+      "slug": "number-of-islands",
+      "file": "0200.岛屿数量"
+    },
+    {
+      "id": 994,
+      "name": "腐烂的橘子",
+      "level": "中等",
+      "topic": "图论",
+      "tier": "P3",
+      "rank": 90,
+      "slug": "rotting-oranges",
+      "file": "0994.腐烂的橘子"
+    },
+    {
+      "id": 207,
+      "name": "课程表",
+      "level": "中等",
+      "topic": "图论",
+      "tier": "P2",
+      "rank": 69,
+      "slug": "course-schedule",
+      "file": "0207.课程表"
+    },
+    {
+      "id": 208,
+      "name": "实现 Trie (前缀树)",
+      "level": "中等",
+      "topic": "图论",
+      "tier": "P3",
+      "rank": 89,
+      "slug": "implement-trie-prefix-tree",
+      "file": "0208.实现 Trie (前缀树)"
+    },
+    {
+      "id": 46,
+      "name": "全排列",
+      "level": "中等",
+      "topic": "回溯",
+      "tier": "P0",
+      "rank": 15,
+      "slug": "permutations",
+      "file": "0046.全排列"
+    },
+    {
+      "id": 78,
+      "name": "子集",
+      "level": "中等",
+      "topic": "回溯",
+      "tier": "P1",
+      "rank": 40,
+      "slug": "subsets",
+      "file": "0078.子集"
+    },
+    {
+      "id": 17,
+      "name": "电话号码的字母组合",
+      "level": "中等",
+      "topic": "回溯",
+      "tier": "P3",
+      "rank": 100,
+      "slug": "letter-combinations-of-a-phone-number",
+      "file": "0017.电话号码的字母组合"
+    },
+    {
+      "id": 39,
+      "name": "组合总和",
+      "level": "中等",
+      "topic": "回溯",
+      "tier": "P1",
+      "rank": 43,
+      "slug": "combination-sum",
+      "file": "0039.组合总和"
+    },
+    {
+      "id": 22,
+      "name": "括号生成",
+      "level": "中等",
+      "topic": "回溯",
+      "tier": "P1",
+      "rank": 35,
+      "slug": "generate-parentheses",
+      "file": "0022.括号生成"
+    },
+    {
+      "id": 79,
+      "name": "单词搜索",
+      "level": "中等",
+      "topic": "回溯",
+      "tier": "P2",
+      "rank": 67,
+      "slug": "word-search",
+      "file": "0079.单词搜索"
+    },
+    {
+      "id": 131,
+      "name": "分割回文串",
+      "level": "中等",
+      "topic": "回溯",
+      "tier": "P2",
+      "rank": 68,
+      "slug": "palindrome-partitioning",
+      "file": "0131.分割回文串"
+    },
+    {
+      "id": 51,
+      "name": "N 皇后",
+      "level": "困难",
+      "topic": "回溯",
+      "tier": "P3",
+      "rank": 85,
+      "slug": "n-queens",
+      "file": "0051.N 皇后"
+    },
+    {
+      "id": 35,
+      "name": "搜索插入位置",
+      "level": "简单",
+      "topic": "二分查找",
+      "tier": "P3",
+      "rank": 98,
+      "slug": "search-insert-position",
+      "file": "0035.搜索插入位置"
+    },
+    {
+      "id": 74,
+      "name": "搜索二维矩阵",
+      "level": "中等",
+      "topic": "二分查找",
+      "tier": "P3",
+      "rank": 99,
+      "slug": "search-a-2d-matrix",
+      "file": "0074.搜索二维矩阵"
+    },
+    {
+      "id": 34,
+      "name": "在排序数组中查找元素的第一个和最后一个位置",
+      "level": "中等",
+      "topic": "二分查找",
+      "tier": "P1",
+      "rank": 41,
+      "slug": "find-first-and-last-position-of-element-in-sorted-array",
+      "file": "0034.在排序数组中查找元素的第一个和最后一个位置"
+    },
+    {
+      "id": 33,
+      "name": "搜索旋转排序数组",
+      "level": "中等",
+      "topic": "二分查找",
+      "tier": "P0",
+      "rank": 12,
+      "slug": "search-in-rotated-sorted-array",
+      "file": "0033.搜索旋转排序数组"
+    },
+    {
+      "id": 153,
+      "name": "寻找旋转排序数组中的最小值",
+      "level": "中等",
+      "topic": "二分查找",
+      "tier": "P3",
+      "rank": 97,
+      "slug": "find-minimum-in-rotated-sorted-array",
+      "file": "0153.寻找旋转排序数组中的最小值"
+    },
+    {
+      "id": 4,
+      "name": "寻找两个正序数组的中位数",
+      "level": "困难",
+      "topic": "二分查找",
+      "tier": "P3",
+      "rank": 82,
+      "slug": "median-of-two-sorted-arrays",
+      "file": "0004.寻找两个正序数组的中位数"
+    },
+    {
+      "id": 20,
+      "name": "有效的括号",
+      "level": "简单",
+      "topic": "栈",
+      "tier": "P0",
+      "rank": 16,
+      "slug": "valid-parentheses",
+      "file": "0020.有效的括号"
+    },
+    {
+      "id": 155,
+      "name": "最小栈",
+      "level": "中等",
+      "topic": "栈",
+      "tier": "P1",
+      "rank": 39,
+      "slug": "min-stack",
+      "file": "0155.最小栈"
+    },
+    {
+      "id": 394,
+      "name": "字符串解码",
+      "level": "中等",
+      "topic": "栈",
+      "tier": "P2",
+      "rank": 54,
+      "slug": "decode-string",
+      "file": "0394.字符串解码"
+    },
+    {
+      "id": 739,
+      "name": "每日温度",
+      "level": "中等",
+      "topic": "栈",
+      "tier": "P2",
+      "rank": 55,
+      "slug": "daily-temperatures",
+      "file": "0739.每日温度"
+    },
+    {
+      "id": 84,
+      "name": "柱状图中最大的矩形",
+      "level": "困难",
+      "topic": "栈",
+      "tier": "P3",
+      "rank": 86,
+      "slug": "largest-rectangle-in-histogram",
+      "file": "0084.柱状图中最大的矩形"
+    },
+    {
+      "id": 215,
+      "name": "数组中的第K个最大元素",
+      "level": "中等",
+      "topic": "堆",
+      "tier": "P0",
+      "rank": 4,
+      "slug": "kth-largest-element-in-an-array",
+      "file": "0215.数组中的第K个最大元素"
+    },
+    {
+      "id": 347,
+      "name": "前 K 个高频元素",
+      "level": "中等",
+      "topic": "堆",
+      "tier": "P2",
+      "rank": 70,
+      "slug": "top-k-frequent-elements",
+      "file": "0347.前 K 个高频元素"
+    },
+    {
+      "id": 295,
+      "name": "数据流的中位数",
+      "level": "困难",
+      "topic": "堆",
+      "tier": "P3",
+      "rank": 87,
+      "slug": "find-median-from-data-stream",
+      "file": "0295.数据流的中位数"
+    },
+    {
+      "id": 121,
+      "name": "买卖股票的最佳时机",
+      "level": "简单",
+      "topic": "贪心算法",
+      "tier": "P0",
+      "rank": 14,
+      "slug": "best-time-to-buy-and-sell-stock",
+      "file": "0121.买卖股票的最佳时机"
+    },
+    {
+      "id": 55,
+      "name": "跳跃游戏",
+      "level": "中等",
+      "topic": "贪心算法",
+      "tier": "P3",
+      "rank": 95,
+      "slug": "jump-game",
+      "file": "0055.跳跃游戏"
+    },
+    {
+      "id": 45,
+      "name": "跳跃游戏 II",
+      "level": "中等",
+      "topic": "贪心算法",
+      "tier": "P3",
+      "rank": 94,
+      "slug": "jump-game-ii",
+      "file": "0045.跳跃游戏 II"
+    },
+    {
+      "id": 763,
+      "name": "划分字母区间",
+      "level": "中等",
+      "topic": "贪心算法",
+      "tier": "P3",
+      "rank": 96,
+      "slug": "partition-labels",
+      "file": "0763.划分字母区间"
+    },
+    {
+      "id": 70,
+      "name": "爬楼梯",
+      "level": "简单",
+      "topic": "动态规划",
+      "tier": "P1",
+      "rank": 27,
+      "slug": "climbing-stairs",
+      "file": "0070.爬楼梯"
+    },
+    {
+      "id": 118,
+      "name": "杨辉三角",
+      "level": "简单",
+      "topic": "动态规划",
+      "tier": "P3",
+      "rank": 91,
+      "slug": "pascals-triangle",
+      "file": "0118.杨辉三角"
+    },
+    {
+      "id": 198,
+      "name": "打家劫舍",
+      "level": "中等",
+      "topic": "动态规划",
+      "tier": "P2",
+      "rank": 58,
+      "slug": "house-robber",
+      "file": "0198.打家劫舍"
+    },
+    {
+      "id": 279,
+      "name": "完全平方数",
+      "level": "中等",
+      "topic": "动态规划",
+      "tier": "P3",
+      "rank": 93,
+      "slug": "perfect-squares",
+      "file": "0279.完全平方数"
+    },
+    {
+      "id": 322,
+      "name": "零钱兑换",
+      "level": "中等",
+      "topic": "动态规划",
+      "tier": "P1",
+      "rank": 37,
+      "slug": "coin-change",
+      "file": "0322.零钱兑换"
+    },
+    {
+      "id": 139,
+      "name": "单词拆分",
+      "level": "中等",
+      "topic": "动态规划",
+      "tier": "P2",
+      "rank": 78,
+      "slug": "word-break",
+      "file": "0139.单词拆分"
+    },
+    {
+      "id": 300,
+      "name": "最长递增子序列",
+      "level": "中等",
+      "topic": "动态规划",
+      "tier": "P0",
+      "rank": 22,
+      "slug": "longest-increasing-subsequence",
+      "file": "0300.最长递增子序列"
+    },
+    {
+      "id": 152,
+      "name": "乘积最大子数组",
+      "level": "中等",
+      "topic": "动态规划",
+      "tier": "P2",
+      "rank": 79,
+      "slug": "maximum-product-subarray",
+      "file": "0152.乘积最大子数组"
+    },
+    {
+      "id": 416,
+      "name": "分割等和子集",
+      "level": "中等",
+      "topic": "动态规划",
+      "tier": "P2",
+      "rank": 80,
+      "slug": "partition-equal-subset-sum",
+      "file": "0416.分割等和子集"
+    },
+    {
+      "id": 32,
+      "name": "最长有效括号",
+      "level": "困难",
+      "topic": "动态规划",
+      "tier": "P3",
+      "rank": 88,
+      "slug": "longest-valid-parentheses",
+      "file": "0032.最长有效括号"
+    },
+    {
+      "id": 62,
+      "name": "不同路径",
+      "level": "中等",
+      "topic": "多维动态规划",
+      "tier": "P2",
+      "rank": 57,
+      "slug": "unique-paths",
+      "file": "0062.不同路径"
+    },
+    {
+      "id": 64,
+      "name": "最小路径和",
+      "level": "中等",
+      "topic": "多维动态规划",
+      "tier": "P2",
+      "rank": 56,
+      "slug": "minimum-path-sum",
+      "file": "0064.最小路径和"
+    },
+    {
+      "id": 5,
+      "name": "最长回文子串",
+      "level": "中等",
+      "topic": "多维动态规划",
+      "tier": "P0",
+      "rank": 11,
+      "slug": "longest-palindromic-substring",
+      "file": "0005.最长回文子串"
+    },
+    {
+      "id": 1143,
+      "name": "最长公共子序列",
+      "level": "中等",
+      "topic": "多维动态规划",
+      "tier": "P1",
+      "rank": 31,
+      "slug": "longest-common-subsequence",
+      "file": "1143.最长公共子序列"
+    },
+    {
+      "id": 72,
+      "name": "编辑距离",
+      "level": "中等",
+      "topic": "多维动态规划",
+      "tier": "P1",
+      "rank": 29,
+      "slug": "edit-distance",
+      "file": "0072.编辑距离"
+    },
+    {
+      "id": 136,
+      "name": "只出现一次的数字",
+      "level": "简单",
+      "topic": "技巧",
+      "tier": "P2",
+      "rank": 75,
+      "slug": "single-number",
+      "file": "0136.只出现一次的数字"
+    },
+    {
+      "id": 169,
+      "name": "多数元素",
+      "level": "简单",
+      "topic": "技巧",
+      "tier": "P2",
+      "rank": 76,
+      "slug": "majority-element",
+      "file": "0169.多数元素"
+    },
+    {
+      "id": 75,
+      "name": "颜色分类",
+      "level": "中等",
+      "topic": "技巧",
+      "tier": "P2",
+      "rank": 77,
+      "slug": "sort-colors",
+      "file": "0075.颜色分类"
+    },
+    {
+      "id": 31,
+      "name": "下一个排列",
+      "level": "中等",
+      "topic": "技巧",
+      "tier": "P1",
+      "rank": 33,
+      "slug": "next-permutation",
+      "file": "0031.下一个排列"
+    },
+    {
+      "id": 287,
+      "name": "寻找重复数",
+      "level": "中等",
+      "topic": "技巧",
+      "tier": "P3",
+      "rank": 92,
+      "slug": "find-the-duplicate-number",
+      "file": "0287.寻找重复数"
+    }
+  ]
+}
